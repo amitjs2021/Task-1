@@ -111,4 +111,8 @@ Basically treat the coding test as if it's a larger problem, a little bit of ove
 - Does the submission exhibit low coupling/high cohesion
 - Is the code easy to read/understand/extend
 - Would I be happy to have code of a similar standard in production
+<<<<<<< HEAD
 - Would I be happy to inherit/modify/extend/maintain code of a similar standard
+=======
+- Would I be happy to inherit/modify/extend/maintain code of a similar standard
+>>>>>>> 1ac9edcce8355f2f79676233451669cbfbfaac35
